@@ -4,7 +4,7 @@ Hi 👋 I'm Kazane
 Software engineer and indie hacker
 ----------------------
 
-I'm a software engineer with 20 years experience and indie hacker, creator of Collections CMS.
+I'm a software engineer with 20 years experience and indie hacker, creator of [Collections CMS](https://collections.dev).
 
 I’m passionate about creating products that solve people’s problems.
 
