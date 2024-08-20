@@ -10,7 +10,7 @@ I’m passionate about creating products that solve people’s problems.
 
 * 🌍  I'm based in Japan
 * 📝  Read my technical articles at [medium.com/@zane_jp](https://medium.com/@zane_jp)
-* ✉️  You can contact me at [kazane.shimizu@rocketa.co.jp](mailto:kazane.shimizu@rocketa.co.jp) or on Twitter via [@kazaneshimizu](https://x.com/zane_jpn)
+* ✉️  You can contact me at [kazane.shimizu@rocketa.co.jp](mailto:kazane.shimizu@rocketa.co.jp) or on X via [@kazaneshimizu](https://x.com/zane_jpn)
 * 🧠  I'm learning TypeScript
 
 <a href="https://www.github.com/kazaneshimizu" target="_blank" rel="noreferrer"><img
