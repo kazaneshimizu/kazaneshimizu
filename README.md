@@ -11,7 +11,7 @@ I love creating products that solve people's problems.
 * 🌍  I'm based in Japan
 * 📝  Read my technical articles at [medium.com/@zane_jp](https://medium.com/@zane_jp)
 * ✉️  You can contact me at [kazane.shimizu@rocketa.co.jp](mailto:kazane.shimizu@rocketa.co.jp) or on X via [@zane_jpn](https://x.com/zane_jpn)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning Next.js
 
 <a href="https://www.github.com/kazaneshimizu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kazaneshimizu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -21,6 +21,7 @@ src="https://img.shields.io/github/followers/kazaneshimizu?logo=github&style=for
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 
 ### Socials
